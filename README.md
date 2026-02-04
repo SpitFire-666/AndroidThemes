@@ -3,8 +3,9 @@
 # <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1 Nova Launcher theme
 
 ## Icons
-- Extracted using wrestool, then converted to .png using imagemagick, then copied to device. Fossify Gallery is a good viewer/browser for .ico files
-- Set the icons in the app drawer (eg don't change the home screen icons - the change will flow down to the home screen icons)
+- Extracted from Windows 3.1 software files using wrestool on a modern system
+- Converted to .png using imagemagick, then copied to Android device. Fossify Gallery is a good viewer/browser for .ico files
+- Note: set the icons in the app drawer (eg don't change the home screen icons) - the change will flow down to the home screen icons
 
 ## Theme
 - Icon text: black
@@ -17,5 +18,5 @@
 - I used Fossify Gallery to set the home screen wallpaper
 
 ## Keyboard
-- Futo keyboard
+- Futo keyboard v0.1.27 now supports themes: https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
 - 
