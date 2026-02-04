@@ -12,6 +12,7 @@
 
 ## Wallpaper
 - Screenshot taken from Windows 3.1 via DOSBOX-X, with 3x scaling enabled
+- Photoshopped into a .GIF (jpeg is fine too)
 - Nova Launcher sucks at aligning/setting the wallpaper
 - I used Fossify Gallery to set the home screen wallpaper
 
