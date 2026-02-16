@@ -2,6 +2,9 @@
 
 # <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1 Nova Launcher theme
 
+![2026-02-04 16_22_05-Screenshot_20260204-162124 png - JPEGView](https://github.com/user-attachments/assets/cbf35af5-55b9-4cb7-abcd-cd20a6eca280)
+
+
 ## Icons
 - Extracted from Windows 3.1 software files using wrestool on a modern system
 - Converted to .png using imagemagick, then copied to Android device. Fossify Gallery is a good viewer/browser for .ico files
@@ -9,6 +12,7 @@
 
 ## Theme
 - Icon text: black
+- Theme file
 - Home screen settings, Advanced, Disable Wallpaper Zoom Effects
 
 ## Wallpaper
