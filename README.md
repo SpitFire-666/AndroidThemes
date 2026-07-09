@@ -9,6 +9,7 @@
 - .ICO files can be converted to .PNG (with transparency!) using imagemagick
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
 - Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
+- Notification Shortcuts also supports custom (.png) icons!
 
 # Themes!
 
