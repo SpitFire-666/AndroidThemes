@@ -19,6 +19,7 @@ TBA
 - Font!
 - Icons
 - Wallpapers: https://archive.org/details/winlogo_202511/
+- Issues: Need to do font, shadows around icon labels if possible, wallpaper is dark
 
 ## Windows 95 Theme
 - Font
