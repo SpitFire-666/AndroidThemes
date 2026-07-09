@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-## Intro
+## ℹ️ Intro
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
 - Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse
 - Icons can be sourced from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
@@ -10,8 +10,9 @@
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
 - Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
 - Notification Shortcuts also supports custom (.png) icons!
+- Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
 
-# Themes!
+# 🖌️ Themes!
 
 ## <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1  Theme
 TBA
