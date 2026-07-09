@@ -11,6 +11,7 @@
 - Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
 - Notification Shortcuts also supports custom (.png) icons!
 - Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
+- https://github.com/pjobson/Microsoft-Fonts/
 
 # 🖌️ Themes!
 
