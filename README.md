@@ -19,14 +19,14 @@
 TBA
 - Font!
 - Icons
-- Wallpapers: https://archive.org/details/winlogo_202511/
+- Original Win31 wallpapers: https://archive.org/details/winlogo_202511/
 - Issues: Need to do font, shadows around icon labels if possible, wallpaper is dark
 
 ## Windows 95 Theme
 - Font
 - Wallpaper hex
-- Icons: https://archive.org/details/windows-95-c-icons
-- Wallpapers: https://archive.org/details/sc-wall
+- Original Win95 icons: https://archive.org/details/windows-95-c-icons
+- Original Win95 wallpapers: https://archive.org/details/sc-wall
 
 ## Windows 98 Theme
 - Font
