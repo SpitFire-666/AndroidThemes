@@ -2,6 +2,9 @@
 
 ## Screenshots
 
+<img width="235.5" height="508" alt="image" src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />
+
+
 ## ℹ️ Intro
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
 - Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse
@@ -17,14 +20,17 @@
 
 ## <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1  Theme
 TBA
-- Font!
+
+- Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/)
 - Icons
+- Text colour: Black
 - Original Win31 wallpapers: https://archive.org/details/winlogo_202511/
 - Issues: Need to do font, shadows around icon labels if possible, wallpaper is dark
 
 ## Windows 95 Theme
 - Font
-- Wallpaper hex
+- Wallpaper colour: 008484
+- Win95 grey: C6C6C6
 - Original Win95 icons: https://archive.org/details/windows-95-c-icons
 - Original Win95 wallpapers: https://archive.org/details/sc-wall
 
