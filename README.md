@@ -19,7 +19,6 @@
 # 🖌️ Themes!
 
 ## <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1  Theme
-TBA
 
 - Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/)
 - Icons
@@ -28,7 +27,8 @@ TBA
 - Issues: Need to do font, shadows around icon labels if possible, wallpaper is dark
 
 ## Windows 95 Theme
-- Font
+- Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/)
+- Font colour: White
 - Wallpaper colour: 008484
 - Win95 grey: C6C6C6
 - Original Win95 icons: https://archive.org/details/windows-95-c-icons
