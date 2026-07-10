@@ -1,6 +1,6 @@
 # 📱 Android Themes
 
-## Screenshots
+## 🖼 Screenshots
 
 <img width="235.5" height="508" alt="image" src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />
 
