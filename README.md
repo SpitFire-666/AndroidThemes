@@ -4,9 +4,7 @@
 
 | Android 3.1 | Android 95 | Android 98 |
 | :------ | :------ | -------: |
-| <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | Data B   | Data C    |
-
-<img width="235.5" height="508" alt="image" src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />
+| <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | TBA | tba |
 
 
 ## ℹ️ Intro
