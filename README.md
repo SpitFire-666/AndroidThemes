@@ -2,6 +2,10 @@
 
 ## 🖼 Screenshots
 
+| Android 3.1 | Android 95 | Android 98 |
+| :------ | :------ | -------: |
+| <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | Data B   | Data C    |
+
 <img width="235.5" height="508" alt="image" src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />
 
 
@@ -9,12 +13,14 @@
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
 - Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse
 - Icons can be sourced from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
+- VirtualBox .vdi files can be opened/extracted with 7Zip
 - .ICO files can be converted to .PNG (with transparency!) using imagemagick
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
 - Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
 - Notification Shortcuts also supports custom (.png) icons!
 - Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
-- https://github.com/pjobson/Microsoft-Fonts/
+- 
+
 
 # 🖌️ Themes!
 
