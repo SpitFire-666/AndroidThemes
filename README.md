@@ -31,30 +31,32 @@
 - Issues: Need to do font, shadows around icon labels if possible, wallpaper is dark
 
 ## Windows 95 Theme
-- Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/)
+- Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/) or https://www.dafont.com/w95fa.font
 - Font colour: White
-- Wallpaper colour: 008484
-- Win95 grey: C6C6C6
+- Wallpaper colour: ```008484```
+- Win95 grey: ```C6C6C6```
 - Original Win95 icons: https://archive.org/details/windows-95-c-icons
 - Original Win95 wallpapers: https://archive.org/details/sc-wall
 
 ## Windows 98 Theme
-- Font:
-- Wallpaper colour: 000080
+- Font: MS Sans Serif (Western), size 8. Sserife.fon
+- Wallpaper colour: ```000080```
 - Original Win98 wallpapers: https://archive.org/details/underw1
 - Windows 98 SE VDI: https://archive.org/details/windows-98-32-bit
 
 ## Windows 2000/Me Theme
-- Font
+- Font: Tahoma.TTF, size 8. Some parts like titlebars are bold
 - Original Win2k Wallpapers: https://archive.org/details/windows-2000_202502/
 - Windows Me VDI:  https://archive.org/details/win_me_archive_vdi/
 - Wallpaper colour: 3B6EA5
+- Windows 2000 grey: ```D4D0C8```
 
 ## Windows XP Theme
-- Font
-- Wallpaper
+- Font: 
+- Wallpaper: 
 
 ## Windows 7 Theme
+
 
 ## Windows 8 Theme
 - We don't talk about Windows 8 here!
@@ -73,6 +75,7 @@
 - if i can be bothered
 
 
+### Windows 3.1 Nova Launcher theme
 
 # <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1 Nova Launcher theme
 
