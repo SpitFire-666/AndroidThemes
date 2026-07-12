@@ -2,8 +2,8 @@
 
 ## 🖼 Screenshots
 
-| Android 3.1 | Android 95 | Android 98 |
-| :------ | :------ | -------: |
+| Android 3.1 | Android 95/NT 4.0 | Android 98 | Android 2K (2000/Me) | Android XP | Android 7 |
+| :------ | :------ | -------: | -------: | -------: | -------: |
 | <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | TBA | tba |
 
 
@@ -17,7 +17,7 @@
 - Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
 - Notification Shortcuts also supports custom (.png) icons!
 - Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
-- 
+- Win95/NT 4.0 have the same vibe, likewise with Win2k/ME. Icons/wallpaper colour is the same
 
 
 # 🖌️ Themes!
@@ -39,14 +39,16 @@
 - Original Win95 wallpapers: https://archive.org/details/sc-wall
 
 ## Windows 98 Theme
-- Font
-- Wallpaper hex
+- Font:
+- Wallpaper colour: 000080
 - Original Win98 wallpapers: https://archive.org/details/underw1
+- Windows 98 SE VDI: https://archive.org/details/windows-98-32-bit
 
-## Windows 2000 Theme
+## Windows 2000/Me Theme
 - Font
 - Original Win2k Wallpapers: https://archive.org/details/windows-2000_202502/
-- Wallpaper hex
+- Windows Me VDI:  https://archive.org/details/win_me_archive_vdi/
+- Wallpaper colour: 3B6EA5
 
 ## Windows XP Theme
 - Font
