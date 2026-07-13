@@ -4,12 +4,13 @@
 
 | Android 3.1 | Android 95/NT 4.0 | Android 98 | Android 2K (2000/Me) | Android XP | Android 7 |
 | :------ | :------ | -------: | -------: | -------: | -------: |
-| <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | still cooking | brewing | soon | later | maybe | when?? |
+| <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | <img width="474" height="959" alt="image" src="https://github.com/user-attachments/assets/df72eb59-9c87-4ee5-9f49-654ac54c5fd8" />
+ | brewing | soon | later | maybe | when?? |
 
 
 ## ℹ️ Intro
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
-- Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse
+- Backup/Restore - Lawnchair backups store the icons, fonts and wallpapers ✅
 - Icons can be sourced from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
 - VirtualBox .vdi files can be opened/extracted with 7Zip
 - .ICO files can be converted to .PNG (with transparency!) using imagemagick
@@ -18,6 +19,7 @@
 - Notification Shortcuts also supports custom (.png) icons!
 - Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
 - Win95/NT 4.0 have the same vibe, likewise with Win2k/ME. Icons/wallpaper colour is the same
+- Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse
 
 
 # 🖌️ Themes!
@@ -37,6 +39,7 @@
 - Win95 grey: ```C6C6C6```
 - Original Win95 icons: https://archive.org/details/windows-95-c-icons
 - Original Win95 wallpapers: https://archive.org/details/sc-wall
+- I couldn't find any Win95-type icons for Camera so I had to use the older style one in PROGMAN.EXE 🙁
 
 ## Windows 98 Theme
 - Font: MS Sans Serif (Western), size 8. Sserife.fon
