@@ -45,7 +45,7 @@
 - Windows 98 SE VDI: https://archive.org/details/windows-98-32-bit
 
 ## Windows 2000/Me Theme
-- Font: Tahoma.TTF, size 8. Some parts like titlebars are bold
+- Font: Tahoma.TTF, size 8. Some parts like titlebars are bold https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
 - Original Win2k Wallpapers: https://archive.org/details/windows-2000_202502/
 - Windows Me VDI:  https://archive.org/details/win_me_archive_vdi/
 - Wallpaper colour: 3B6EA5
