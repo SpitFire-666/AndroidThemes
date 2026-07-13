@@ -70,7 +70,7 @@
 - Icons: warpicon***
 
 ## Mac OS 9
-- Icons
+- Icons: https://github.com/bearz314/MacOS9-icons
 - Wallpaper
 - Font
 
