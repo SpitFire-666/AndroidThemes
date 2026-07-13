@@ -11,6 +11,7 @@
 ## ℹ️ Intro
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
 - Backup/Restore - Lawnchair backups store the icons, fonts and wallpapers ✅
+- Lawnchair supports .gif files as wallpaper (non-animated), which is ideal for stock Windows backgrounds which use GIF colours
 - Icons can be sourced from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
 - VirtualBox .vdi files can be opened/extracted with 7Zip
 - .ICO files can be converted to .PNG (with transparency!) using imagemagick
@@ -30,7 +31,7 @@
 - Icons
 - Text colour: Black
 - Original Win31 wallpapers: https://archive.org/details/winlogo_202511/
-- Issues: Need to do font, shadows around icon labels if possible, wallpaper is dark
+- Issues: Wallpaper is dark (should be pure white, but Lawnchair has made it grey-ish)
 
 ## Windows 95 Theme
 - Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/) or https://www.dafont.com/w95fa.font
@@ -39,7 +40,7 @@
 - Win95 grey: ```C6C6C6```
 - Original Win95 icons: https://archive.org/details/windows-95-c-icons
 - Original Win95 wallpapers: https://archive.org/details/sc-wall
-- I couldn't find any Win95-type icons for Camera so I had to use the older style one in PROGMAN.EXE 🙁
+- I couldn't find any Win95-type icons for Camera so I had to use the older style one from PROGMAN.EXE 🙁
 
 ## Windows 98 Theme
 - Font: MS Sans Serif (Western), size 8. Sserife.fon
