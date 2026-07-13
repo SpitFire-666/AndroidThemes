@@ -4,7 +4,7 @@
 
 | Android 3.1 | Android 95/NT 4.0 | Android 98 | Android 2K (2000/Me) | Android XP | Android 7 |
 | :------ | :------ | -------: | -------: | -------: | -------: |
-| <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | TBA | tba |
+| <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | still cooking | brewing | soon | later | maybe | when?? |
 
 
 ## ℹ️ Intro
