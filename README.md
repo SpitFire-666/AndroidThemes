@@ -42,17 +42,18 @@
 - I couldn't find any Win95-type icons for Camera so I had to use the older style one from PROGMAN.EXE 🙁
 
 ## Windows 98 Theme
-- Font: MS Sans Serif (Western), size 8. Sserife.fon
+- Font: MS Sans Serif (Western), size 8. ```SSERIFE.FON```
 - Wallpaper colour: ```000080```
+- Wallpaper - Windows 98 logo: This is a .gif stored in ```MEMBG.DLL``` (extracted with Resource Hacker)
 - Original Win98 wallpapers: https://archive.org/details/underw1
 - Windows 98 SE VDI: https://archive.org/details/windows-98-32-bit
-- Issues: Font doesn't look right. 
+- Issues: Font doesn't look right.
 
 ## Windows 2000/Me Theme
-- Font: Tahoma.TTF, size 8. Some parts like titlebars are bold https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
+- Font: ```TAHOMA.TTF```, size 8. Some parts like titlebars are bold https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
 - Original Win2k Wallpapers: https://archive.org/details/windows-2000_202502/
 - Windows Me VDI:  https://archive.org/details/win_me_archive_vdi/
-- Wallpaper colour: 3B6EA5
+- Wallpaper colour: ```3B6EA5```
 - Windows 2000 grey: ```D4D0C8```
 
 ## Windows XP Theme
@@ -98,3 +99,7 @@
 - Nova Launcher sucks at aligning/setting the wallpaper
 - I used Fossify Gallery to set the home screen wallpaper
 
+
+
+<span style="color: red;">This text is red</span>
+<div style="background-color: yellow; color: black;">Yellow background with black text</div>
