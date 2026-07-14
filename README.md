@@ -61,7 +61,9 @@
 
 ## Windows XP Theme
 - Font: 
-- Wallpaper: 
+- Wallpaper:
+- WinXP "Grey": ```FBFBFC```
+- WinXP Grey (classic theme): 
 
 ## Windows 7 Theme
 
