@@ -99,7 +99,3 @@
 - Nova Launcher sucks at aligning/setting the wallpaper
 - I used Fossify Gallery to set the home screen wallpaper
 
-
-
-<span style="color: red;">This text is red</span>
-<div style="background-color: yellow; color: black;">Yellow background with black text</div>
