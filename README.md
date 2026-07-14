@@ -78,6 +78,8 @@
 
 ## Mac OS 9
 - Icons: https://github.com/bearz314/MacOS9-icons
+- MacOS 9 grey: ```ADACAD```
+- Wallpaper colour: 63639C
 - Wallpaper
 - Font
 
