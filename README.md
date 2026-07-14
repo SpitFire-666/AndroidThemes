@@ -52,10 +52,11 @@
 - Issues: Font doesn't look right.
 
 ## Windows 2000/Me Theme
+- Reference pic: https://winworldpc.com/res/img/screenshots/final-3e8aaaa2b1c65587e5249551445642da-w2kfilebrowser.png
 - Font: ```TAHOMA.TTF```, size 8. Some parts like titlebars are bold https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
 - Original Win2k Wallpapers: https://archive.org/details/windows-2000_202502/
 - Windows Me VDI:  https://archive.org/details/win_me_archive_vdi/
-- Wallpaper colour: ```3B6EA5```
+- Wallpaper (Win2k Blue) colour: ```3B6EA5```
 - Windows 2000 grey: ```D4D0C8```
 
 ## Windows XP Theme
