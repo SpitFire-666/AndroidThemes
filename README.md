@@ -46,6 +46,7 @@
 - Wallpaper colour: ```000080```
 - Original Win98 wallpapers: https://archive.org/details/underw1
 - Windows 98 SE VDI: https://archive.org/details/windows-98-32-bit
+- Issues: Font doesn't look right. 
 
 ## Windows 2000/Me Theme
 - Font: Tahoma.TTF, size 8. Some parts like titlebars are bold https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
