@@ -5,23 +5,27 @@
 | Android 3.1 | Android 95/NT 4.0 | Android 98 | 
 | :------ | :------ | -------: | 
 | <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | <img width="474" height="959" alt="image" src="https://github.com/user-attachments/assets/df72eb59-9c87-4ee5-9f49-654ac54c5fd8" /> | <img width="468" height="967" alt="image" src="https://github.com/user-attachments/assets/6559279e-9dca-4b76-b449-805b112d01b2" /> |
-| Android 2K (2000/Me) | Android XP | Android 7 |
+| Android ME Professional (2000/ME) | Android XP | Android 7 |
 | brewing | soon | maybe|
 
 
 ## ℹ️ Intro
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
-- Backup/Restore - Lawnchair backups store the icons, fonts and wallpapers ✅
+- Backup/Restore - Lawnchair backups store the icons, layout and wallpapers ✅
+- Lawnchair backups do NOT contain custom fonts. You'll need both the .shed file and .ttf files to the device
+
+## Tips
+
 - Lawnchair supports .gif files as wallpaper (non-animated), which is ideal for stock Windows backgrounds which use GIF colours
 - Icons can be sourced from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
 - VirtualBox .vdi files can be opened/extracted with 7Zip
 - .ICO files can be converted to .PNG (with transparency!) using imagemagick
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
 - Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
-- Notification Shortcuts also supports custom (.png) icons!
+- Notification Shortcuts app also supports custom (.png) icons!
 - Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
 - Win95/NT 4.0 have the same vibe, likewise with Win2k/ME. Icons/wallpaper colour is the same
-- Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse
+- Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse. It also doesn't support custom fonts
 
 
 # 🖌️ Themes!
@@ -47,7 +51,7 @@
 ## Windows 98 Theme
 - Font: MS Sans Serif (Western), size 8. ```SSERIFE.FON```
 - Wallpaper colour: ```000080```
-- Wallpaper - Windows 98 logo: This is a .gif stored in ```MEMBG.DLL``` (extracted with Resource Hacker)
+- Wallpaper with Windows 98 logo: the logo is a .gif stored in ```MEMBG.DLL``` (extracted with Resource Hacker)
 - Original Win98 wallpapers: https://archive.org/details/underw1
 - Windows 98 SE VDI: https://archive.org/details/windows-98-32-bit
 - Issues: Font doesn't look right.
