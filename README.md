@@ -35,6 +35,7 @@
 - Issues: Wallpaper is dark (should be pure white, but Lawnchair has made it grey-ish)
 
 ## Windows 95 Theme
+- [Sample Lawnchair .shed](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win95.shed)
 - Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/) or https://www.dafont.com/w95fa.font
 - Font colour: White
 - Wallpaper colour: ```008484```
