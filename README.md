@@ -62,7 +62,7 @@
 - Original Win2k Wallpapers: https://archive.org/details/windows-2000_202502/
 - Windows Me VDI:  https://archive.org/details/win_me_archive_vdi/
 - Wallpaper (Win2k Blue) colour: ```3B6EA5```
-- Windows 2000 grey: ```D4D0C8```
+- Windows 2000 grey: ```D4D0C8``` / R212, G208, B200
 
 ## Windows XP Theme
 - Font: 
