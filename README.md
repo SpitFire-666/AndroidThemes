@@ -49,7 +49,7 @@
 - Win95 grey: ```C6C6C6```
 - Original Win95 icons: https://archive.org/details/windows-95-c-icons
 - Original Win95 wallpapers: https://archive.org/details/sc-wall
-- I couldn't find any Win95-type icons for Camera so I had to use the older style one from PROGMAN.EXE 🙁
+- Issues: I couldn't find any Win95-type icons for Camera so I had to use the older style one from PROGMAN.EXE 🙁
 
 ## Windows 98 Theme
 - Font: MS Sans Serif (Western), size 8. ```SSERIFE.FON```
@@ -68,16 +68,18 @@
 - Windows 2000 grey: ```D4D0C8``` / R212, G208, B200
 
 ## Windows XP Theme
-- Font: 
-- Wallpaper:
+- Font: ```TAHOMA.TTF```, size 8. Note that modern Tahoma is different - so here's a conversion of the original Win2k Tahoma: https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
+- Wallpaper: BLISS.JPG
 - WinXP "Grey": ```FBFBFC```
-- WinXP Grey (classic theme): 
+- WinXP Grey (classic theme):
+- WinXP Blue: ```235EDC```
+- Notes: I had to hunt down a Windows Messenger (remember that!?) .exe, because it's missing from newer versions of WinXP 🤔 It took a lot of digging to even find the name of the .exe ```wmsmsgs.exe``` which is [here](https://archive.org/details/WindowsXPProfessional64BitCorporateEdition). Then I had to expand.exe the file 🙃
 
 ## Windows 7 Theme
 
 
 ## Windows 8 Theme
-- We don't talk about Windows 8 here!
+- NO!
 
 ## Windows 10/11 Theme
 
