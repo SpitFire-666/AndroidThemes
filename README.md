@@ -14,17 +14,20 @@
 - Backup/Restore - Lawnchair backups store the icons, layout and wallpapers ✅
 - Lawnchair backups do NOT contain custom fonts. You'll need both the .shed file and .ttf files to the device
 
-## Tips
+## Theming Tips
 
 - Lawnchair supports .gif files as wallpaper (non-animated), which is ideal for stock Windows backgrounds which use GIF colours
-- Icons can be sourced from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
-- VirtualBox .vdi files can be opened/extracted with 7Zip
-- .ICO files can be converted to .PNG (with transparency!) using imagemagick
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
+- You can use GIF Live Wallpaper by Awesome Robot to set an animated .GIF as wallpaper, for example setting a Windows loading screen on the lock screen!
 - Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
 - Notification Shortcuts app also supports custom (.png) icons!
+
+## Icon tips
+- Icons can be extracted from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
+- VirtualBox hard drive .vdi files can be opened/extracted with 7Zip
+- .ICO files can be converted to .PNG (with transparency!) using imagemagick
 - Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
-- Win95/NT 4.0 have the same vibe, likewise with Win2k/ME. Icons/wallpaper colour is the same
+- Win95/NT 4.0 have the same vibe, likewise with Win2k/ME. Icons/wallpaper colour are the same. WinME and Win2k do have different wallpaper though
 - Nova launcher works, but it has its bugs. Wallpaper placement can be hard to get right. It has ads. It's also not fun to pick custom icons, although others I've tried are worse. It also doesn't support custom fonts
 
 
