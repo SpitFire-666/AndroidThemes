@@ -18,8 +18,8 @@
 
 - Lawnchair supports .gif files as wallpaper (non-animated), which is ideal for stock Windows backgrounds which use GIF colours
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
-- You can use GIF Live Wallpaper by Awesome Robot to set an animated .GIF as wallpaper, for example setting a Windows loading screen on the lock screen!
-- Futo keyboard v0.1.27 now supports themes (eg background image) https://github.com/futo-org/android-keyboard/releases/tag/0.1.27
+- You can use [GIF Live Wallpaper by Awesome Robot](https://www.apk4fun.com/publisher/9185/) to set an animated .GIF as wallpaper, for example setting a Windows loading screen on the lock screen!
+- [Futo keyboard v0.1.27](https://github.com/futo-org/android-keyboard/releases/tag/0.1.27) now supports themes (eg background image)
 - Notification Shortcuts app also supports custom (.png) icons!
 
 ## Icon tips
@@ -61,7 +61,7 @@
 
 ## Windows 2000/Me Theme
 - Reference pic: https://winworldpc.com/res/img/screenshots/final-3e8aaaa2b1c65587e5249551445642da-w2kfilebrowser.png
-- Font: ```TAHOMA.TTF```, size 8. Some parts like titlebars are bold https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
+- Windows 2000 font: ```TAHOMA.TTF```, size 8. Note that modern Tahoma is different - so here's a conversion of the original Win2k Tahoma: https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
 - Original Win2k Wallpapers: https://archive.org/details/windows-2000_202502/
 - Windows Me VDI:  https://archive.org/details/win_me_archive_vdi/
 - Wallpaper (Win2k Blue) colour: ```3B6EA5```
