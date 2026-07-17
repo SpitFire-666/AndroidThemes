@@ -6,8 +6,9 @@
 | :------ | :------ | -------: | 
 | <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | <img width="474" height="959" alt="image" src="https://github.com/user-attachments/assets/df72eb59-9c87-4ee5-9f49-654ac54c5fd8" /> | <img width="468" height="967" alt="image" src="https://github.com/user-attachments/assets/6559279e-9dca-4b76-b449-805b112d01b2" /> |
 | Android ME Professional (2000/ME) with IE6 | Android XP | Android 7 |
-| <img width="440" height="886" alt="image" src="https://github.com/user-attachments/assets/ef5c86c0-eea6-4b33-99d1-1f8371f59c4f" />  | soon | maybe|
-
+| <img width="440" height="886" alt="image" src="https://github.com/user-attachments/assets/ef5c86c0-eea6-4b33-99d1-1f8371f59c4f" />  | <img width="469" height="931" alt="image" src="https://github.com/user-attachments/assets/499480b3-019f-44fa-bf83-aa601c76cd71" /> | maybe |
+| Android 10/11 | MacOS | OS/2 |
+| ugh | potentially | is that even a good idea? |
 
 ## ℹ️ Intro
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
@@ -68,6 +69,7 @@
 - Windows 2000 grey: ```D4D0C8``` / R212, G208, B200
 
 ## Windows XP Theme
+Finally, an OS that has most of the icons I need, out of the box!
 - Font: ```TAHOMA.TTF```, size 8. Note that modern Tahoma is different - so here's a conversion of the original Win2k Tahoma: https://github.com/SpitFire-666/AndroidThemes/blob/main/Tahoma-Win2k.ttf
 - Wallpaper: BLISS.JPG
 - WinXP "Grey": ```FBFBFC```
