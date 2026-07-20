@@ -77,11 +77,9 @@ Finally, an OS that has most of the icons I need, out of the box!
 - WinXP Blue: ```235EDC```
 - Notes: I had to hunt down a Windows Messenger (remember that!?) .exe, because it's missing from newer versions of WinXP 🤔 It took a lot of digging to even find the name of the .exe ```wmsmsgs.exe``` which is [here](https://archive.org/details/WindowsXPProfessional64BitCorporateEdition). Then I had to expand.exe the file 🙃
 
-## Windows 7 Theme
-
-
-## Windows 8 Theme
-- NO!
+## Windows 7 Theme - also has crossover with Vista
+- Wallpaper:
+- Font:
 
 ## Windows 10/11 Theme
 
