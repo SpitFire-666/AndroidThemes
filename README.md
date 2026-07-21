@@ -6,7 +6,7 @@
 | :------ | :------ | -------: | 
 | <img src="https://github.com/user-attachments/assets/8f53f0bf-9772-4472-ae43-0885ddfd2df8" />   | <img width="474" height="959" alt="image" src="https://github.com/user-attachments/assets/df72eb59-9c87-4ee5-9f49-654ac54c5fd8" /> | <img width="468" height="967" alt="image" src="https://github.com/user-attachments/assets/6559279e-9dca-4b76-b449-805b112d01b2" /> |
 | Android ME Professional (2000/ME) with IE6 | Android XP | Android 7 |
-| <img width="440" height="886" alt="image" src="https://github.com/user-attachments/assets/ef5c86c0-eea6-4b33-99d1-1f8371f59c4f" />  | <img width="469" height="931" alt="image" src="https://github.com/user-attachments/assets/499480b3-019f-44fa-bf83-aa601c76cd71" /> | maybe |
+| <img width="440" height="886" src="https://github.com/user-attachments/assets/ef5c86c0-eea6-4b33-99d1-1f8371f59c4f" />  | <img width="469" height="931" src="https://github.com/user-attachments/assets/499480b3-019f-44fa-bf83-aa601c76cd71" /> | <img width="464" height="933" src="https://github.com/user-attachments/assets/932021bb-7b1e-42d5-a81a-301111794308" /> |
 | Android 10/11 | MacOS | OS/2 |
 | ugh | potentially | is that even a good idea? |
 
