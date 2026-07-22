@@ -107,7 +107,8 @@ Finally, an OS that has most of the icons I need, out of the box!
 
 ## Theme
 - Icon text: black
-- Theme file
+- Theme file: https://github.com/SpitFire-666/AndroidThemes/blob/main/Win31.novabackup
+- Wallpaper: 
 - Home screen settings, Advanced, Disable Wallpaper Zoom Effects
 
 ## Wallpaper
