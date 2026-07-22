@@ -53,12 +53,13 @@
 - Issues: I couldn't find any Win95-type icons for Camera so I had to use the older style one from PROGMAN.EXE 🙁
 
 ## Windows 98 Theme
-- Font: MS Sans Serif (Western), size 8. ```SSERIFE.FON```
+- [Sample Lawnchair .shed](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win98/Win98.shed)
+- Font: MS Sans Serif (Western), size 8. ```SSERIFE.FON``` - Here's the .TTF version https://github.com/MARTYR-X-LTD/ms-w98-ui/tree/main/TTF
 - Wallpaper colour: ```000080```
-- Wallpaper with Windows 98 logo: the logo is a .gif stored in ```MEMBG.DLL``` (extracted with Resource Hacker)
+- Wallpaper with the Windows 98 logo: the logo is a .gif stored in ```MEMBG.DLL``` (extracted with Resource Hacker)
 - Original Win98 wallpapers: https://archive.org/details/underw1
 - Windows 98 SE VDI: https://archive.org/details/windows-98-32-bit
-- Issues: Font doesn't look right.
+- Issues: Font doesn't look right
 
 ## Windows 2000/Me Theme
 - Reference pic: https://winworldpc.com/res/img/screenshots/final-3e8aaaa2b1c65587e5249551445642da-w2kfilebrowser.png
