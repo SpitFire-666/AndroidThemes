@@ -7,7 +7,7 @@
 | <img width="468" height="967" alt="Screenshot_20260723-103945" src="https://github.com/user-attachments/assets/6f30536d-1bfe-4cee-81c0-ee76de75944e" />  | <img width="474" height="959" alt="image" src="https://github.com/user-attachments/assets/df72eb59-9c87-4ee5-9f49-654ac54c5fd8" /> | <img width="468" height="967" alt="image" src="https://github.com/user-attachments/assets/6559279e-9dca-4b76-b449-805b112d01b2" /> |
 | Android ME Professional (2000/ME) with IE6 | Android XP | Android 7 |
 | <img width="440" height="886" src="https://github.com/user-attachments/assets/ef5c86c0-eea6-4b33-99d1-1f8371f59c4f" />  | <img width="469" height="931" src="https://github.com/user-attachments/assets/499480b3-019f-44fa-bf83-aa601c76cd71" /> | <img width="464" height="933" src="https://github.com/user-attachments/assets/932021bb-7b1e-42d5-a81a-301111794308" /> |
-| Android 10/11 | MacOS | OS/2 |
+| Apple iOS 6 | MacOS | OS/2 |
 | ugh | potentially | is that even a good idea? |
 
 ## ℹ️ Intro
@@ -81,6 +81,12 @@ Finally, an OS that has most of the icons I need, out of the box!
 ## Windows 7 Theme - also has crossover with Vista
 - Wallpaper:
 - Font:
+
+## Apple iOS 6 theme
+The irony of theming your device like an OS that won't let you customise it 🙃
+- Icons: https://www.deviantart.com/alternatecontent/art/Classic-IOS-6-Icons-Pack-1287853974
+- Wallpaper: https://cdn.wallpapersafari.com/3/68/fHe1yV.jpg
+- Font: 
 
 ## Windows 10/11 Theme
 
