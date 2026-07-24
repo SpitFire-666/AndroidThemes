@@ -8,7 +8,7 @@
 | Android ME Professional (2000/ME) with IE6 | Android XP | Android 7 |
 | <img width="440" height="886" src="https://github.com/user-attachments/assets/ef5c86c0-eea6-4b33-99d1-1f8371f59c4f" />  | <img width="469" height="931" src="https://github.com/user-attachments/assets/499480b3-019f-44fa-bf83-aa601c76cd71" /> | <img width="464" height="933" src="https://github.com/user-attachments/assets/932021bb-7b1e-42d5-a81a-301111794308" /> |
 | Apple iOS 6 | MacOS | OS/2 |
-| ugh | potentially | is that even a good idea? |
+| <img width="479" height="945" alt="image" src="https://github.com/user-attachments/assets/45635365-d5a1-4c32-bb5e-b275d33787e2" /> | potentially | is that even a good idea? |
 
 ## ℹ️ Intro
 - [Lawnchair Legacy 2.0-2589](https://www.apkmirror.com/apk/deletescape/lawnchair-launcher/lawnchair-launcher-2-0-2589-release/lawnchair-launcher-2-0-2589-android-apk-download/?) is ~~the least worst launcher~~ recommended. Newer versions lack support for changing icons using images. Also, other launchers have ads or are painful to customise/use. It also supports custom fonts!
