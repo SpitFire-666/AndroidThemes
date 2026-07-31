@@ -42,7 +42,7 @@
 - Original Win31 wallpapers: https://archive.org/details/winlogo_202511/
 - Issues: Wallpaper is dark (should be pure white, but Lawnchair has made it grey-ish)
 
-## Windows 95 Theme
+## Windows 95/NT 4.0 Theme
 - [Sample Lawnchair .shed](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win95.shed)
 - Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/) or https://www.dafont.com/w95fa.font
 - Font colour: White
@@ -79,16 +79,14 @@ Finally, an OS that has most of the icons I need, out of the box!
 - Notes: I had to hunt down a Windows Messenger (remember that!?) .exe, because it's missing from newer versions of WinXP 🤔 It took a lot of digging to even find the name of the .exe ```wmsmsgs.exe``` which is [here](https://archive.org/details/WindowsXPProfessional64BitCorporateEdition). Then I had to expand.exe the file 🙃
 
 ## Windows 7 Theme - also has crossover with Vista
-- Wallpaper:
-- Font:
+- Wallpaper: 
+- Font: 
 
 ## Apple iOS 6 theme
 The irony of theming your device like an OS that won't let you customise it 🙃
 - Icons: https://www.deviantart.com/alternatecontent/art/Classic-IOS-6-Icons-Pack-1287853974
 - Wallpaper: https://cdn.wallpapersafari.com/3/68/fHe1yV.jpg
 - Font: 
-
-## Windows 10/11 Theme
 
 ## OS/2 Warp Theme
 - Icons: warpicon***
