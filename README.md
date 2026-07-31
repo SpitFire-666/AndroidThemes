@@ -21,7 +21,7 @@
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
 - You can use [GIF Live Wallpaper by Awesome Robot](https://www.apk4fun.com/publisher/9185/) to set an animated .GIF as wallpaper, for example setting a Windows loading screen on the lock screen!
 - [Futo keyboard v0.1.27](https://github.com/futo-org/android-keyboard/releases/tag/0.1.27) now supports themes (eg background image)
-- Notification Shortcuts app also supports custom (.png) icons!
+- [Notification Shortcuts](https://apkpure.com/notification-shortcuts/dk.nicolai.buch.andersen.ns) app also supports custom (.png) icons!
 
 ## Icon tips
 - Icons can be extracted from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
