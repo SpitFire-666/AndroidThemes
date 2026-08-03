@@ -7,7 +7,7 @@
 | <img width="468" height="967" alt="Screenshot_20260723-103945" src="https://github.com/user-attachments/assets/6f30536d-1bfe-4cee-81c0-ee76de75944e" />  | <img width="474" height="959" alt="image" src="https://github.com/user-attachments/assets/df72eb59-9c87-4ee5-9f49-654ac54c5fd8" /> | <img width="468" height="967" alt="image" src="https://github.com/user-attachments/assets/6559279e-9dca-4b76-b449-805b112d01b2" /> |
 | Android ME Professional (2000/ME) with IE6 | Android XP | Android 7 |
 | <img width="440" height="886" src="https://github.com/user-attachments/assets/ef5c86c0-eea6-4b33-99d1-1f8371f59c4f" />  | <img width="469" height="931" src="https://github.com/user-attachments/assets/499480b3-019f-44fa-bf83-aa601c76cd71" /> | <img width="464" height="933" src="https://github.com/user-attachments/assets/932021bb-7b1e-42d5-a81a-301111794308" /> |
-| Apple iOS 6 | MacOS | OS/2 |
+| Android iOS 6 | MacOS | OS/2 |
 | <img width="479" height="945" alt="image" src="https://github.com/user-attachments/assets/45635365-d5a1-4c32-bb5e-b275d33787e2" /> | potentially | is that even a good idea? |
 
 ## ℹ️ Intro
@@ -16,7 +16,6 @@
 - Lawnchair backups do NOT contain custom fonts. You'll need both the .shed file and .ttf files to the device
 
 ## Theming Tips
-
 - Lawnchair supports .gif files as wallpaper (non-animated), which is ideal for stock Windows backgrounds which use GIF colours
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
 - You can use [GIF Live Wallpaper by Awesome Robot](https://www.apk4fun.com/publisher/9185/) to set an animated .GIF as wallpaper, for example setting a Windows loading screen on the lock screen!
@@ -25,7 +24,7 @@
 
 ## Icon tips
 - Icons can be extracted from Windows files using wrestool, which supports all Windows DLLs, EXEs etc since Windows 3.0!
-- VirtualBox hard drive .vdi files can be opened/extracted with 7Zip
+- VirtualBox hard drive .vdi files can be opened/extracted with 7Zip (eg so you can install a legacy OS then extract the icons from it)
 - .ICO files can be converted to .PNG (with transparency!) using imagemagick
 - Fun icons can be found in MORICONS.DLL and PIFMGR.DLL
 - Win95/NT 4.0 have the same vibe, likewise with Win2k/ME. Icons/wallpaper colour are the same. WinME and Win2k do have different wallpaper though
@@ -37,7 +36,8 @@
 ## <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1  Theme
 
 - Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/)
-- Icons
+- [.SHED file](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win31/Win31.shed)
+- Icons: 
 - Text colour: Black
 - Original Win31 wallpapers: https://archive.org/details/winlogo_202511/
 - Issues: Wallpaper is dark (should be pure white, but Lawnchair has made it grey-ish)
