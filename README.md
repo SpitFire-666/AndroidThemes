@@ -61,10 +61,10 @@ On your phone
 ## <img width="32" height="32" alt="WINVER EXE_14_WINVER (7) ico-1" src="https://github.com/user-attachments/assets/589823bc-525e-45ed-a0da-9ba6533c82d8" />  Windows 3.1  Theme
 
 - Font: [MS Sans Serif 8pt.ttf](https://drive.google.com/file/d/1rJAVxG1rirrP9rA0zmGwiv_sstPRH7Nu/)
-- [.SHED file](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win31/Win31.shed)
-- Icons: 
+- [Lawnchair .SHED file](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win31/Win31.shed)
+- [Icons](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win31/Win31Icons.zip)
 - Text colour: Black
-- Original Win31 wallpapers: https://archive.org/details/winlogo_202511/
+- [Original Win31 wallpapers](https://archive.org/details/winlogo_202511/)
 - Issues: Wallpaper is dark (should be pure white, but Lawnchair has made it grey-ish)
 
 ## Windows 95/NT 4.0 Theme
