@@ -15,6 +15,31 @@
 - Backup/Restore - Lawnchair backups store the icons, layout and wallpapers ✅
 - Lawnchair backups do NOT contain custom fonts. You'll need both the .shed file and .ttf files to the device
 
+## How to
+
+From the github theme folder(s)
+- Download the .shed file (Lawnchair theme file) if you want a head start
+- Download the wallpaper file
+- Download the font (.ttf) file
+- Download the icon pack (I'm working on creating these at the momemnt)
+
+On your phone
+- Install Lawnchair Legacy
+- Open the .shed file in Lawnchair Legacy
+- (If required) set the global font in Lawnchair to the .ttf file (Theme, Fonts, Change, Add Fonts etc)
+- Set the wallpaper
+- Unzip the icons to a suitable folder
+- You may have to remove the "dead" home screen icons
+
+### Customising the icons
+
+1. In the app drawer, long press the app, Customise
+2. Tap the app's icon
+3. Tap Open Photos
+4. Browse to your icon folder and choose an icon, then OK
+5. Now you can drag the app to the homescreen
+
+
 ## Theming Tips
 - Lawnchair supports .gif files as wallpaper (non-animated), which is ideal for stock Windows backgrounds which use GIF colours
 - Note: set the icons in the app drawer first - the change will flow down to the home screen icons
