@@ -73,6 +73,7 @@ On your phone
 - Font colour: White
 - Wallpaper colour: ```008484```
 - Win95 grey: ```C6C6C6```
+- [Win95 Icon "pack"](https://github.com/SpitFire-666/AndroidThemes/blob/main/Win95/Win95Icons.zip)
 - Original Win95 icons: https://archive.org/details/windows-95-c-icons
 - Original Win95 wallpapers: https://archive.org/details/sc-wall
 - Issues: I couldn't find any Win95-type icons for Camera so I had to use the older style one from PROGMAN.EXE 🙁
